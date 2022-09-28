@@ -1,0 +1,7 @@
+setup.py
+invex.egg-info/PKG-INFO
+invex.egg-info/SOURCES.txt
+invex.egg-info/dependency_links.txt
+invex.egg-info/entry_points.txt
+invex.egg-info/requires.txt
+invex.egg-info/top_level.txt
