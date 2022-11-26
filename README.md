@@ -1,4 +1,4 @@
-# <img src="invex_ico.ico" alt="Invex logo" style="width: 30px; height: 30px;"/> invex
+# <img src="invex_ico.png" alt="Invex logo" style="width: 30px; height: 30px;"/> invex
 An inventory manager for keeping track of items.
 
 [Download for Windows](https://github.com/tripalc/invex/releases/download/v1/invex-win.bat)
