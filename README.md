@@ -1,7 +1,7 @@
 # invex
 An inventory manager for keeping track of items.
 
-<img src="invex_ico.png"
+<img src="invex_ico.ico"
      alt="Markdown Monster icon"
      style="font-size: 10px;" />
 
